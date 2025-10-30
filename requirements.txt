@@ -1,0 +1,9 @@
+
+#### `requirements.txt`
+```txt
+langchain
+langchain-openai
+solana
+requests
+python-dotenv
+pyyaml
