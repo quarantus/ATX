@@ -1,0 +1,5 @@
+openai_api_key: "sk-..."
+birdeye_api_key: ""  # optional
+wallet_private_key: "your-devnet-key"
+risk_per_trade: 0.02
+min_momentum_5m: 1.5
